@@ -72,7 +72,8 @@ add credentials to settings.xml file inside .m2 folder (root level)
 21. Run tasks manually to check they work
 <img width="1137" alt="Capture d’écran 2022-10-14 à 22 57 11" src="https://user-images.githubusercontent.com/62488871/195942650-abcc531e-3a06-453b-9ba1-dd90cadab9e6.png">
 
-
+22. Stop running Nexus
+/opt/nexus-3.42.0-01/bin/nexus stop
 
 
 
